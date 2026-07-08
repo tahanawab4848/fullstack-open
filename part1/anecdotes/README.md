@@ -6,4 +6,4 @@ Hey! 🤓 This is the final exercise for Part 1 of Full Stack Open. It's basical
 1. Open up your terminal in this directory.
 2. Run `npm install` to grab the needed packages.
 3. Type `npm run dev` and hit enter to start the server.
-4. Open the local link it spits out, and vote on your favorite programming jokes!
+4. Open the local link it spits out, and vote on your favorite programming sayings!
