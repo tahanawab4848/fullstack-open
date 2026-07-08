@@ -1,16 +1,9 @@
-# React + Vite
+# Anecdotes App (Part 1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Hey! 🤓 This is the final exercise for Part 1 of Full Stack Open. It's basically a random quote generator for nerdy software engineering anecdotes. You click "next anecdote" to get a random one, and you can "vote" for your favorites. At the bottom, it auto-calculates and displays whichever quote has the most votes. Really good practice for dealing with arrays and objects in React state!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## How to run this thing:
+1. Open up your terminal in this directory.
+2. Run `npm install` to grab the needed packages.
+3. Type `npm run dev` and hit enter to start the server.
+4. Open the local link it spits out, and vote on your favorite programming jokes!

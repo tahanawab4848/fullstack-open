@@ -1,16 +1,9 @@
-# React + Vite
+# Course Info (Part 1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Yo! 👋 This is the first app for Part 1 of the Full Stack Open course. Basically, we took a big chunk of messy code and broke it down into nice, reusable React components (`Header`, `Content`, and `Total`). It was a pretty good intro to passing `props` around!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to run this thing:
+1. Open up your terminal in this directory.
+2. Run `npm install` (if you haven't already, grabs all the node modules).
+3. Smash that `npm run dev` to start the local Vite server.
+4. Click the localhost link it gives you and boom, it's alive!

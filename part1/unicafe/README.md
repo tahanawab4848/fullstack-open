@@ -1,16 +1,9 @@
-# React + Vite
+# Unicafe Feedback App (Part 1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What's up! ☕ This is the Unicafe exercise for Part 1. It's basically a little feedback app for a student cafeteria. You can click buttons to say if your food was "Good", "Neutral", or "Bad". It keeps track of the clicks using React state (`useState`) and spits out some cool math at the bottom (total votes, average score, and how positive people are) inside a neat HTML table.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to run this thing:
+1. Open up your terminal in this directory.
+2. Run `npm install` to get the dependencies sorted.
+3. Run `npm run dev` to fire up the Vite dev server.
+4. Open the localhost link in your browser and start spamming those feedback buttons!
