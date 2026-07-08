@@ -1,1 +1,1 @@
-const App = () => { return <div><h1>give feedback</h1></div> }; export default App
+import { useState } from 'react'; const App = () => { const [good, setGood] = useState(0); return <div><h1>give feedback</h1><button onClick={() => setGood(good + 1)}>good</button><p>good {good}</p></div> }; export default App
