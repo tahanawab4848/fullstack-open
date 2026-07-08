@@ -1,6 +1,6 @@
 # Course Info (Part 1)
 
-Yo! 👋 This is the first app for Part 1 of the Full Stack Open course. Basically, we took a big chunk of messy code and broke it down into nice, reusable React components (`Header`, `Content`, and `Total`). It was a pretty good intro to passing `props` around!
+This is the first app for Part 1 of the Full Stack Open course. Basically, we took a big chunk of messy code and broke it down into nice, reusable React components (`Header`, `Content`, and `Total`). It was a pretty good intro to passing `props` around!
 
 ## How to run this thing:
 1. Open up your terminal in this directory.
