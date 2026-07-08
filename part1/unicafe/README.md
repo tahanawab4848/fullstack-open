@@ -1,6 +1,6 @@
 # Unicafe Feedback App (Part 1)
 
-What's up! ☕ This is the Unicafe exercise for Part 1. It's basically a little feedback app for a student cafeteria. You can click buttons to say if your food was "Good", "Neutral", or "Bad". It keeps track of the clicks using React state (`useState`) and spits out some cool math at the bottom (total votes, average score, and how positive people are) inside a neat HTML table.
+This is the Unicafe exercise for Part 1. It's basically a little feedback app for a student cafeteria. You can click buttons to say if your food was "Good", "Neutral", or "Bad". It keeps track of the clicks using React state (`useState`) and spits out some cool math at the bottom (total votes, average score, and how positive people are) inside a neat HTML table.
 
 ## How to run this thing:
 1. Open up your terminal in this directory.
