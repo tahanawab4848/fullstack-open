@@ -3,4 +3,4 @@
 
 
 I am excited as I have completed Part 0 and Part 1.
-Looking orward to llearn more!
+Looking forward to learn more!
